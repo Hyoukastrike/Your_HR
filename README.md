@@ -1,6 +1,7 @@
 # ats_recruitment_system
 
-A new ATS System for recruiting employee and tracking CV
+A new ATS System for recruiting employee and tracking CV(updating function)
+Manage work todo lists(Completed function, updating UI)
 
 ## Getting Started
 
